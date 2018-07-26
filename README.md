@@ -1,12 +1,8 @@
 # Proyecto_Web
-RoadMap para proyectos web.
 
 >These charts were created by originally by GitHub user Kamranahmedse. They visualize three roadmaps to becoming a web developer.
 
-
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
-
-
 
 If you think that these can be improved in anyway, please do suggest.
 
